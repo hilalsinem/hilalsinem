@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on Data <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG40YjJmZzd0cTF0ZHllcnppbWFtNzkzOHExcHcxMTF6dW14dTR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="30">, Game Development <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkwbjhzNTdqbnF0OWtwM3BxeGlkMHpwMzV2NzZzaTZhcTRsNm5pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ht2XkYj3yY5jja22Uj/giphy.gif" width="30">, Cyber Security <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVkeHZrZjZwaTJ0eHpsM3luYjU3aGFiNmNrZTN2MDB6dGg4dWVubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TMVDD8IJ07WLnPEl7A/giphy.gif" width="30">
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hilal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilalsinemsayar/)
+- ⭐ You can also take a look at my cool website :) https://hilalsinem.github.io/
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
